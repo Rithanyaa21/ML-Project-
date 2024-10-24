@@ -1,0 +1,301 @@
+Response Time (minutes),Patient Survival,Incident Type,Traffic Condition,Time of Day,Day of Week,Weather Condition,Temperature (°C),Humidity (%),Location Latitude,Location Longitude,Road Condition,Distance to Nearest Hospital (km),Season,Vehicle Type,Injury Severity,Driver Experience (years),Hospital Preparedness (1-10),Location
+57,1,Other,Moderate,Evening,Friday,Fog,16.3,99,11.0739,77.0032,Wet,3.28,Summer,Advanced Life Support,Mild,1,5,Saravanampatti
+45,1,Other,Light,Evening,Thursday,Snow,39.8,92,10.9976,76.9558,Dry,10.73,Fall,Advanced Life Support,Critical,8,1,RS Puram
+13,1,Stroke,Light,Evening,Thursday,Snow,21.3,83,11.031,76.9704,Under Construction,43.53,Winter,Advanced Life Support,Critical,5,2,Ganapathy
+42,1,Stroke,Moderate,Afternoon,Sunday,Snow,12.5,84,10.9986,77.0354,Under Construction,18.49,Fall,Basic Life Support,Moderate,17,6,Singanallur
+57,1,Stroke,Moderate,Afternoon,Sunday,Snow,34.8,98,11.0872,76.9611,Dry,28.0,Winter,Basic Life Support,Critical,1,8,Thudiyalur
+13,1,Cardiac Arrest,Moderate,Morning,Saturday,Fog,12.4,66,11.0872,76.9611,Dry,19.06,Summer,Basic Life Support,Critical,22,2,Thudiyalur
+38,1,Stroke,Moderate,Morning,Sunday,Clear,39.3,94,10.9986,77.0354,Under Construction,37.82,Summer,Advanced Life Support,Moderate,13,9,Singanallur
+46,0,Stroke,Moderate,Evening,Friday,Fog,24.3,76,11.0174,76.9667,Dry,1.72,Summer,Advanced Life Support,Moderate,7,6,Gandhipuram
+6,1,Other,Moderate,Night,Tuesday,Fog,38.3,91,-38.33522,160.53241,Dry,46.15,Summer,Advanced Life Support,Mild,26,4,Kovaipudur
+50,1,Cardiac Arrest,Moderate,Evening,Thursday,Snow,31.2,46,-40.55703,-77.96629,Icy,41.89,Fall,Advanced Life Support,Moderate,2,6,Kovaipudur
+56,1,Accident,Light,Morning,Monday,Rain,11.0,51,87.1197,55.54226,Dry,13.55,Winter,Advanced Life Support,Critical,25,2,Ramanathapuram
+51,1,Other,Moderate,Afternoon,Wednesday,Clear,16.1,96,10.9986,77.0354,Dry,4.86,Spring,Basic Life Support,Mild,4,10,Singanallur
+52,1,Cardiac Arrest,Heavy,Evening,Friday,Fog,40.0,48,11.0205,76.9577,Wet,34.11,Spring,Advanced Life Support,Mild,25,8,Saibaba Colony
+22,0,Accident,Moderate,Afternoon,Sunday,Clear,29.0,74,10.9976,76.9558,Under Construction,8.19,Fall,Advanced Life Support,Mild,15,6,RS Puram
+5,1,Accident,Light,Night,Monday,Rain,16.0,76,10.9986,77.0354,Icy,38.13,Winter,Advanced Life Support,Mild,10,7,Singanallur
+51,1,Accident,Light,Morning,Sunday,Fog,24.1,91,11.0872,76.9611,Under Construction,18.65,Winter,Advanced Life Support,Mild,24,8,Thudiyalur
+12,0,Stroke,Moderate,Morning,Monday,Fog,38.0,58,10.9986,77.0354,Under Construction,17.15,Summer,Basic Life Support,Mild,23,10,Singanallur
+7,1,Stroke,Heavy,Evening,Thursday,Clear,25.9,64,11.0174,76.9667,Icy,15.21,Fall,Basic Life Support,Critical,10,9,Gandhipuram
+15,0,Stroke,Moderate,Afternoon,Friday,Snow,27.5,52,10.9976,76.9558,Icy,36.78,Winter,Basic Life Support,Moderate,20,7,RS Puram
+8,0,Accident,Moderate,Morning,Friday,Rain,27.9,73,11.0205,76.9577,Icy,45.25,Winter,Basic Life Support,Mild,14,4,Saibaba Colony
+56,1,Cardiac Arrest,Moderate,Afternoon,Thursday,Clear,13.8,63,10.9976,76.9558,Dry,30.89,Spring,Basic Life Support,Critical,29,9,RS Puram
+17,1,Other,Heavy,Afternoon,Saturday,Rain,27.8,38,11.0174,76.9667,Icy,18.73,Fall,Advanced Life Support,Critical,29,8,Gandhipuram
+44,0,Stroke,Moderate,Morning,Saturday,Clear,34.9,99,11.0739,77.0032,Icy,36.84,Summer,Basic Life Support,Critical,2,7,Saravanampatti
+43,1,Accident,Heavy,Afternoon,Saturday,Fog,34.0,36,11.0205,76.9577,Dry,1.99,Spring,Basic Life Support,Critical,19,8,Saibaba Colony
+35,1,Stroke,Heavy,Night,Sunday,Clear,36.2,66,10.9976,76.9558,Wet,20.36,Winter,Basic Life Support,Moderate,21,7,RS Puram
+16,1,Cardiac Arrest,Heavy,Evening,Sunday,Rain,20.8,60,37.91766,-87.46722,Under Construction,16.31,Winter,Basic Life Support,Moderate,7,10,Kovaipudur
+24,1,Accident,Light,Night,Tuesday,Fog,37.6,47,11.031,76.9704,Icy,40.59,Summer,Basic Life Support,Critical,8,2,Ganapathy
+38,1,Cardiac Arrest,Heavy,Morning,Monday,Clear,11.6,89,11.0739,77.0032,Wet,11.13,Spring,Basic Life Support,Critical,11,10,Saravanampatti
+20,0,Accident,Heavy,Afternoon,Wednesday,Clear,18.6,87,10.9976,76.9558,Icy,10.02,Summer,Basic Life Support,Critical,13,1,RS Puram
+18,1,Cardiac Arrest,Light,Morning,Sunday,Snow,36.3,51,-86.54753,-102.7009,Dry,31.17,Fall,Basic Life Support,Mild,29,10,Ramanathapuram
+41,1,Stroke,Heavy,Evening,Tuesday,Snow,20.9,31,10.9986,77.0354,Wet,31.64,Spring,Advanced Life Support,Mild,12,3,Singanallur
+7,1,Cardiac Arrest,Light,Morning,Wednesday,Rain,27.2,48,11.0739,77.0032,Dry,19.59,Spring,Advanced Life Support,Critical,3,9,Saravanampatti
+26,1,Stroke,Heavy,Afternoon,Tuesday,Rain,23.1,90,10.9976,76.9558,Icy,18.67,Winter,Advanced Life Support,Moderate,3,10,RS Puram
+39,1,Stroke,Moderate,Afternoon,Tuesday,Snow,11.5,45,11.0205,76.9577,Wet,26.57,Winter,Basic Life Support,Critical,29,6,Saibaba Colony
+22,1,Cardiac Arrest,Light,Evening,Sunday,Snow,34.6,93,11.029,77.0384,Dry,47.69,Fall,Basic Life Support,Moderate,15,5,Peelamedu
+20,1,Accident,Moderate,Afternoon,Sunday,Snow,23.0,78,11.0739,77.0032,Icy,11.13,Spring,Advanced Life Support,Moderate,27,8,Saravanampatti
+23,1,Other,Heavy,Morning,Wednesday,Clear,23.0,77,68.59444,-49.11214,Icy,36.82,Fall,Advanced Life Support,Critical,29,2,Kovaipudur
+31,1,Accident,Light,Morning,Tuesday,Rain,29.0,98,10.9986,77.0354,Icy,40.1,Spring,Advanced Life Support,Critical,22,7,Singanallur
+39,0,Cardiac Arrest,Light,Afternoon,Saturday,Fog,13.0,62,70.50312,-98.14454,Wet,24.17,Fall,Advanced Life Support,Moderate,7,1,Kovaipudur
+44,1,Cardiac Arrest,Heavy,Afternoon,Monday,Snow,36.8,70,45.62741,138.89055,Dry,10.09,Winter,Advanced Life Support,Mild,11,6,Ramanathapuram
+5,1,Stroke,Heavy,Afternoon,Friday,Snow,16.7,82,10.9986,77.0354,Icy,2.89,Fall,Advanced Life Support,Mild,6,9,Singanallur
+20,1,Other,Light,Night,Tuesday,Snow,30.7,37,11.0174,76.9667,Icy,20.79,Winter,Advanced Life Support,Moderate,12,9,Gandhipuram
+13,0,Stroke,Moderate,Night,Sunday,Snow,24.2,58,10.9976,76.9558,Wet,38.86,Fall,Basic Life Support,Mild,12,7,RS Puram
+26,0,Other,Heavy,Evening,Saturday,Snow,21.1,85,-43.60622,2.20639,Dry,15.61,Fall,Advanced Life Support,Moderate,23,1,Ramanathapuram
+55,0,Cardiac Arrest,Moderate,Night,Wednesday,Rain,18.1,68,11.029,77.0384,Wet,24.79,Spring,Advanced Life Support,Mild,21,3,Peelamedu
+56,1,Cardiac Arrest,Heavy,Night,Wednesday,Snow,13.5,41,11.031,76.9704,Dry,19.67,Fall,Basic Life Support,Mild,5,8,Ganapathy
+53,0,Cardiac Arrest,Light,Afternoon,Friday,Clear,14.6,31,11.0739,77.0032,Icy,44.08,Fall,Basic Life Support,Moderate,6,10,Saravanampatti
+38,1,Accident,Moderate,Morning,Tuesday,Rain,17.8,40,11.031,76.9704,Dry,31.04,Spring,Basic Life Support,Moderate,26,3,Ganapathy
+16,1,Cardiac Arrest,Light,Morning,Tuesday,Rain,35.6,77,11.0205,76.9577,Under Construction,37.06,Summer,Advanced Life Support,Moderate,16,1,Saibaba Colony
+43,1,Accident,Moderate,Evening,Sunday,Rain,20.3,65,45.90942,-53.89507,Under Construction,18.6,Winter,Basic Life Support,Moderate,2,10,Kovaipudur
+50,1,Cardiac Arrest,Moderate,Afternoon,Friday,Clear,20.4,89,10.9986,77.0354,Wet,4.29,Fall,Basic Life Support,Critical,1,6,Singanallur
+44,0,Cardiac Arrest,Light,Morning,Wednesday,Clear,30.8,44,11.0739,77.0032,Icy,16.59,Spring,Advanced Life Support,Critical,20,6,Saravanampatti
+20,1,Accident,Heavy,Morning,Monday,Clear,27.0,86,11.0739,77.0032,Dry,17.53,Summer,Basic Life Support,Critical,27,8,Saravanampatti
+23,1,Cardiac Arrest,Moderate,Morning,Sunday,Rain,27.1,65,11.0174,76.9667,Under Construction,26.61,Spring,Advanced Life Support,Moderate,2,1,Gandhipuram
+10,1,Stroke,Heavy,Morning,Sunday,Clear,18.5,92,11.0205,76.9577,Dry,35.0,Summer,Basic Life Support,Mild,21,7,Saibaba Colony
+51,1,Other,Heavy,Night,Thursday,Rain,29.3,79,10.9986,77.0354,Under Construction,8.71,Summer,Basic Life Support,Moderate,22,5,Singanallur
+58,0,Other,Light,Afternoon,Thursday,Rain,28.5,48,10.9986,77.0354,Wet,28.92,Winter,Advanced Life Support,Mild,6,9,Singanallur
+12,0,Stroke,Light,Evening,Wednesday,Rain,27.3,56,11.029,77.0384,Dry,47.44,Winter,Advanced Life Support,Moderate,13,10,Peelamedu
+9,1,Accident,Heavy,Afternoon,Tuesday,Clear,16.8,97,-37.76654,90.86654,Icy,42.02,Spring,Advanced Life Support,Moderate,18,7,Ramanathapuram
+44,1,Other,Heavy,Night,Sunday,Snow,32.7,93,16.06243,50.28098,Dry,28.81,Winter,Basic Life Support,Critical,10,6,Kovaipudur
+51,1,Other,Heavy,Afternoon,Tuesday,Fog,39.2,73,11.0872,76.9611,Under Construction,26.76,Spring,Basic Life Support,Moderate,18,4,Thudiyalur
+45,1,Other,Heavy,Morning,Thursday,Rain,38.2,57,2.18431,7.12508,Dry,11.46,Spring,Basic Life Support,Mild,29,2,Kovaipudur
+23,0,Stroke,Light,Night,Tuesday,Rain,25.9,88,11.0872,76.9611,Under Construction,25.71,Summer,Basic Life Support,Critical,20,1,Thudiyalur
+34,1,Other,Light,Evening,Friday,Snow,13.1,68,10.9986,77.0354,Dry,48.08,Summer,Basic Life Support,Critical,25,7,Singanallur
+44,1,Accident,Moderate,Night,Tuesday,Snow,34.5,74,11.0872,76.9611,Wet,30.69,Fall,Advanced Life Support,Moderate,13,5,Thudiyalur
+42,1,Cardiac Arrest,Moderate,Morning,Friday,Snow,11.7,56,11.0739,77.0032,Wet,30.17,Winter,Advanced Life Support,Mild,14,5,Saravanampatti
+12,0,Stroke,Heavy,Morning,Thursday,Fog,13.2,66,11.031,76.9704,Under Construction,17.46,Fall,Advanced Life Support,Critical,16,8,Ganapathy
+45,1,Cardiac Arrest,Heavy,Evening,Friday,Clear,20.8,61,10.9986,77.0354,Under Construction,44.67,Summer,Advanced Life Support,Critical,6,5,Singanallur
+25,1,Stroke,Heavy,Morning,Friday,Rain,27.0,63,12.29854,39.97074,Under Construction,20.7,Spring,Advanced Life Support,Moderate,4,9,Kovaipudur
+36,0,Stroke,Moderate,Evening,Monday,Fog,37.4,90,11.029,77.0384,Icy,40.37,Summer,Advanced Life Support,Moderate,8,4,Peelamedu
+11,0,Accident,Moderate,Morning,Friday,Rain,37.6,91,11.029,77.0384,Wet,18.45,Spring,Advanced Life Support,Moderate,28,6,Peelamedu
+18,1,Accident,Moderate,Afternoon,Friday,Snow,20.4,54,11.0174,76.9667,Wet,42.66,Spring,Basic Life Support,Moderate,3,7,Gandhipuram
+28,1,Stroke,Moderate,Afternoon,Tuesday,Snow,17.9,89,11.031,76.9704,Icy,43.54,Summer,Advanced Life Support,Critical,6,10,Ganapathy
+33,1,Cardiac Arrest,Moderate,Night,Friday,Fog,29.2,44,-53.36593,-94.89118,Under Construction,43.1,Fall,Advanced Life Support,Critical,7,4,Kovaipudur
+49,1,Stroke,Moderate,Evening,Friday,Rain,20.9,73,11.0174,76.9667,Icy,45.28,Spring,Basic Life Support,Mild,5,8,Gandhipuram
+19,1,Accident,Light,Morning,Wednesday,Snow,19.4,47,11.0872,76.9611,Under Construction,41.08,Summer,Basic Life Support,Mild,15,7,Thudiyalur
+41,1,Other,Light,Night,Thursday,Snow,18.9,76,10.9976,76.9558,Wet,35.89,Winter,Advanced Life Support,Mild,17,3,RS Puram
+32,1,Other,Heavy,Morning,Thursday,Fog,23.6,47,11.031,76.9704,Icy,23.56,Winter,Advanced Life Support,Mild,12,3,Ganapathy
+22,1,Cardiac Arrest,Moderate,Afternoon,Saturday,Snow,19.3,43,11.0174,76.9667,Dry,37.8,Fall,Advanced Life Support,Critical,11,6,Gandhipuram
+29,1,Other,Heavy,Night,Monday,Snow,13.4,80,11.0174,76.9667,Dry,13.26,Winter,Advanced Life Support,Mild,8,10,Gandhipuram
+33,1,Cardiac Arrest,Light,Afternoon,Wednesday,Rain,26.5,47,10.9986,77.0354,Under Construction,15.91,Summer,Advanced Life Support,Mild,28,4,Singanallur
+21,0,Accident,Heavy,Morning,Tuesday,Clear,31.7,50,-82.83078,-110.79121,Dry,23.87,Summer,Basic Life Support,Moderate,19,6,Ramanathapuram
+17,1,Other,Moderate,Night,Wednesday,Fog,24.4,73,10.9976,76.9558,Icy,18.92,Winter,Advanced Life Support,Moderate,4,9,RS Puram
+12,1,Accident,Moderate,Night,Tuesday,Fog,12.2,82,11.031,76.9704,Dry,11.26,Winter,Advanced Life Support,Critical,28,1,Ganapathy
+51,1,Other,Moderate,Morning,Wednesday,Clear,31.6,83,35.7697,93.10023,Wet,49.78,Fall,Advanced Life Support,Critical,8,9,Ramanathapuram
+35,1,Stroke,Heavy,Afternoon,Thursday,Fog,34.0,76,11.029,77.0384,Icy,31.02,Summer,Advanced Life Support,Mild,15,7,Peelamedu
+15,1,Accident,Moderate,Night,Sunday,Clear,34.1,89,44.38379,15.8798,Icy,20.88,Spring,Basic Life Support,Critical,22,1,Kovaipudur
+53,1,Stroke,Light,Morning,Wednesday,Snow,33.4,89,11.0205,76.9577,Wet,39.8,Summer,Advanced Life Support,Mild,19,7,Saibaba Colony
+55,1,Cardiac Arrest,Moderate,Afternoon,Tuesday,Fog,10.8,75,11.029,77.0384,Wet,11.64,Winter,Basic Life Support,Moderate,21,10,Peelamedu
+50,1,Accident,Moderate,Evening,Thursday,Snow,21.4,42,11.0739,77.0032,Dry,26.66,Summer,Advanced Life Support,Moderate,21,9,Saravanampatti
+59,1,Other,Moderate,Night,Sunday,Fog,29.6,81,10.9986,77.0354,Under Construction,45.33,Winter,Basic Life Support,Moderate,16,10,Singanallur
+38,1,Accident,Moderate,Evening,Thursday,Fog,24.8,66,11.0174,76.9667,Wet,31.27,Fall,Basic Life Support,Critical,16,4,Gandhipuram
+6,1,Accident,Light,Morning,Friday,Snow,18.0,62,10.9976,76.9558,Dry,34.46,Fall,Advanced Life Support,Mild,7,1,RS Puram
+26,0,Accident,Heavy,Morning,Thursday,Snow,32.2,81,11.0205,76.9577,Under Construction,46.7,Winter,Advanced Life Support,Critical,5,8,Saibaba Colony
+27,0,Stroke,Moderate,Night,Thursday,Rain,26.2,68,11.029,77.0384,Under Construction,46.56,Fall,Advanced Life Support,Moderate,22,1,Peelamedu
+17,1,Other,Moderate,Morning,Tuesday,Snow,22.6,82,11.029,77.0384,Under Construction,22.0,Summer,Basic Life Support,Moderate,11,5,Peelamedu
+44,1,Stroke,Light,Night,Saturday,Rain,30.3,87,11.0205,76.9577,Icy,7.13,Fall,Advanced Life Support,Moderate,23,2,Saibaba Colony
+41,1,Accident,Moderate,Afternoon,Wednesday,Rain,22.4,76,-28.41913,63.20351,Icy,19.5,Summer,Basic Life Support,Mild,29,8,Ramanathapuram
+46,1,Cardiac Arrest,Moderate,Night,Thursday,Rain,15.2,84,10.9976,76.9558,Dry,29.59,Fall,Basic Life Support,Critical,29,6,RS Puram
+9,1,Stroke,Light,Afternoon,Wednesday,Snow,34.9,60,11.031,76.9704,Under Construction,11.28,Fall,Basic Life Support,Moderate,24,4,Ganapathy
+13,1,Other,Moderate,Evening,Sunday,Fog,12.6,54,11.0739,77.0032,Dry,14.24,Summer,Basic Life Support,Critical,27,10,Saravanampatti
+44,1,Other,Heavy,Night,Wednesday,Clear,17.5,50,64.64105,148.04794,Dry,22.61,Summer,Advanced Life Support,Critical,7,2,Kovaipudur
+6,1,Accident,Moderate,Evening,Monday,Fog,24.0,83,-32.16747,-85.4201,Wet,34.37,Winter,Basic Life Support,Mild,22,2,Ramanathapuram
+35,0,Stroke,Moderate,Night,Sunday,Fog,30.3,83,11.0872,76.9611,Dry,45.63,Winter,Advanced Life Support,Mild,15,2,Thudiyalur
+24,1,Stroke,Moderate,Afternoon,Friday,Fog,15.8,83,10.9986,77.0354,Icy,47.59,Winter,Advanced Life Support,Critical,7,4,Singanallur
+15,1,Accident,Light,Night,Thursday,Fog,19.3,98,11.031,76.9704,Dry,42.74,Fall,Basic Life Support,Moderate,7,8,Ganapathy
+19,1,Other,Moderate,Evening,Wednesday,Snow,17.8,93,10.9976,76.9558,Icy,22.65,Winter,Basic Life Support,Mild,3,10,RS Puram
+45,0,Other,Light,Afternoon,Monday,Rain,27.2,37,10.9986,77.0354,Under Construction,31.85,Fall,Advanced Life Support,Critical,15,7,Singanallur
+37,0,Stroke,Light,Morning,Sunday,Snow,26.1,38,11.0872,76.9611,Icy,30.91,Spring,Advanced Life Support,Critical,20,9,Thudiyalur
+31,1,Cardiac Arrest,Moderate,Evening,Wednesday,Fog,13.6,56,34.59214,-50.94235,Dry,30.59,Summer,Advanced Life Support,Moderate,22,2,Ramanathapuram
+18,0,Accident,Moderate,Afternoon,Sunday,Rain,38.3,38,11.0872,76.9611,Icy,40.52,Spring,Advanced Life Support,Critical,19,6,Thudiyalur
+23,1,Accident,Moderate,Night,Monday,Fog,30.4,96,11.031,76.9704,Under Construction,49.64,Summer,Basic Life Support,Moderate,7,4,Ganapathy
+32,1,Cardiac Arrest,Moderate,Afternoon,Thursday,Snow,26.5,32,11.031,76.9704,Under Construction,19.5,Fall,Basic Life Support,Moderate,11,5,Ganapathy
+57,1,Accident,Heavy,Afternoon,Thursday,Clear,21.7,87,11.0205,76.9577,Icy,22.22,Winter,Advanced Life Support,Critical,21,5,Saibaba Colony
+19,1,Other,Moderate,Morning,Tuesday,Fog,33.8,59,11.0174,76.9667,Icy,9.75,Winter,Advanced Life Support,Mild,24,9,Gandhipuram
+17,1,Accident,Moderate,Evening,Wednesday,Rain,24.7,48,79.29866,50.17056,Wet,14.17,Summer,Advanced Life Support,Moderate,1,5,Kovaipudur
+27,1,Accident,Heavy,Evening,Wednesday,Snow,22.0,41,10.9986,77.0354,Wet,7.31,Fall,Basic Life Support,Mild,22,5,Singanallur
+16,1,Cardiac Arrest,Moderate,Night,Friday,Snow,12.9,56,11.029,77.0384,Under Construction,31.38,Winter,Advanced Life Support,Mild,10,10,Peelamedu
+32,1,Cardiac Arrest,Heavy,Afternoon,Thursday,Clear,19.7,57,10.9986,77.0354,Under Construction,26.81,Winter,Basic Life Support,Mild,8,5,Singanallur
+49,0,Cardiac Arrest,Moderate,Evening,Saturday,Clear,23.9,74,-71.4839,156.31013,Wet,39.04,Summer,Basic Life Support,Mild,8,1,Ramanathapuram
+56,1,Accident,Light,Night,Monday,Fog,20.0,87,45.33343,-36.04734,Icy,35.64,Winter,Advanced Life Support,Mild,7,9,Ramanathapuram
+46,0,Other,Heavy,Morning,Monday,Rain,11.9,63,10.9976,76.9558,Under Construction,6.17,Fall,Basic Life Support,Mild,26,6,RS Puram
+38,1,Accident,Moderate,Evening,Tuesday,Snow,34.9,38,10.9976,76.9558,Dry,46.28,Winter,Basic Life Support,Mild,16,6,RS Puram
+12,1,Other,Heavy,Afternoon,Thursday,Fog,23.7,42,10.9986,77.0354,Under Construction,5.48,Summer,Basic Life Support,Mild,23,3,Singanallur
+31,0,Accident,Moderate,Night,Friday,Snow,26.7,89,11.0739,77.0032,Dry,36.64,Winter,Basic Life Support,Critical,4,7,Saravanampatti
+57,1,Stroke,Heavy,Night,Friday,Snow,17.7,44,11.029,77.0384,Wet,43.23,Spring,Basic Life Support,Moderate,14,8,Peelamedu
+12,1,Stroke,Light,Morning,Sunday,Snow,16.7,91,11.029,77.0384,Under Construction,36.6,Spring,Advanced Life Support,Mild,12,4,Peelamedu
+32,1,Other,Light,Morning,Tuesday,Clear,28.7,30,11.0872,76.9611,Under Construction,48.74,Summer,Basic Life Support,Moderate,23,10,Thudiyalur
+45,0,Other,Heavy,Evening,Monday,Snow,23.2,63,18.65099,34.67815,Dry,21.41,Spring,Basic Life Support,Mild,24,3,Kovaipudur
+14,0,Accident,Heavy,Morning,Wednesday,Clear,35.6,35,10.9986,77.0354,Under Construction,27.01,Spring,Advanced Life Support,Critical,1,7,Singanallur
+38,1,Stroke,Light,Afternoon,Friday,Rain,35.1,50,11.029,77.0384,Wet,48.02,Fall,Advanced Life Support,Mild,16,8,Peelamedu
+26,1,Stroke,Moderate,Evening,Tuesday,Fog,37.3,99,11.0872,76.9611,Under Construction,43.61,Spring,Advanced Life Support,Critical,18,2,Thudiyalur
+41,1,Cardiac Arrest,Moderate,Night,Wednesday,Clear,35.4,53,10.9986,77.0354,Wet,7.21,Summer,Advanced Life Support,Critical,21,10,Singanallur
+34,1,Other,Moderate,Morning,Saturday,Snow,15.2,94,10.9986,77.0354,Dry,21.42,Spring,Basic Life Support,Mild,25,6,Singanallur
+23,0,Other,Light,Afternoon,Friday,Clear,23.9,85,11.0174,76.9667,Wet,29.38,Spring,Basic Life Support,Mild,6,2,Gandhipuram
+49,1,Other,Moderate,Night,Sunday,Fog,29.2,57,11.0205,76.9577,Dry,35.54,Fall,Basic Life Support,Critical,2,6,Saibaba Colony
+40,1,Cardiac Arrest,Light,Night,Monday,Fog,13.1,70,11.0872,76.9611,Dry,34.49,Fall,Advanced Life Support,Mild,15,3,Thudiyalur
+16,1,Other,Light,Evening,Wednesday,Snow,24.8,75,11.0739,77.0032,Icy,3.08,Summer,Advanced Life Support,Critical,18,4,Saravanampatti
+55,0,Accident,Heavy,Morning,Saturday,Snow,26.6,37,11.0205,76.9577,Dry,30.52,Fall,Advanced Life Support,Mild,13,9,Saibaba Colony
+55,1,Accident,Light,Night,Wednesday,Snow,26.3,45,11.0739,77.0032,Under Construction,23.51,Spring,Basic Life Support,Critical,26,1,Saravanampatti
+28,1,Accident,Heavy,Afternoon,Friday,Rain,35.0,81,16.43946,-33.13685,Icy,31.69,Summer,Basic Life Support,Moderate,26,9,Ramanathapuram
+17,1,Other,Moderate,Afternoon,Sunday,Clear,23.9,61,10.9986,77.0354,Dry,3.24,Winter,Advanced Life Support,Moderate,23,8,Singanallur
+34,0,Accident,Heavy,Afternoon,Friday,Fog,26.9,54,68.42148,-135.46275,Dry,10.96,Winter,Basic Life Support,Mild,22,4,Kovaipudur
+15,0,Accident,Moderate,Evening,Saturday,Clear,20.4,40,11.029,77.0384,Under Construction,3.16,Winter,Advanced Life Support,Mild,10,7,Peelamedu
+36,1,Stroke,Moderate,Night,Tuesday,Fog,39.1,52,-28.17169,-48.81788,Under Construction,9.37,Fall,Advanced Life Support,Mild,14,4,Ramanathapuram
+40,1,Other,Moderate,Afternoon,Thursday,Fog,33.6,61,10.9976,76.9558,Icy,44.42,Fall,Basic Life Support,Critical,27,4,RS Puram
+11,0,Stroke,Heavy,Evening,Wednesday,Clear,38.9,54,11.0174,76.9667,Wet,17.81,Spring,Basic Life Support,Mild,18,9,Gandhipuram
+46,0,Other,Moderate,Night,Thursday,Fog,34.4,60,42.40699,94.78171,Dry,43.9,Summer,Advanced Life Support,Mild,4,8,Kovaipudur
+20,1,Other,Light,Evening,Thursday,Rain,20.8,62,11.0739,77.0032,Under Construction,25.58,Fall,Advanced Life Support,Mild,18,8,Saravanampatti
+5,1,Stroke,Moderate,Afternoon,Sunday,Fog,14.7,69,10.9986,77.0354,Wet,5.0,Spring,Advanced Life Support,Critical,14,5,Singanallur
+15,0,Other,Heavy,Evening,Monday,Fog,10.6,78,11.029,77.0384,Under Construction,24.45,Winter,Basic Life Support,Moderate,15,7,Peelamedu
+45,1,Stroke,Heavy,Night,Wednesday,Fog,23.6,43,10.9986,77.0354,Under Construction,27.08,Spring,Advanced Life Support,Critical,13,8,Singanallur
+17,0,Accident,Heavy,Afternoon,Sunday,Clear,11.5,31,-12.25276,92.72528,Under Construction,27.53,Summer,Basic Life Support,Moderate,7,4,Ramanathapuram
+44,0,Other,Heavy,Night,Wednesday,Rain,18.6,41,10.9986,77.0354,Icy,10.82,Spring,Advanced Life Support,Moderate,4,2,Singanallur
+23,0,Other,Light,Afternoon,Monday,Rain,37.9,80,11.0872,76.9611,Dry,16.67,Spring,Advanced Life Support,Critical,13,6,Thudiyalur
+54,1,Stroke,Moderate,Night,Monday,Clear,27.2,49,-60.5072,-132.05883,Dry,23.19,Spring,Advanced Life Support,Moderate,8,10,Kovaipudur
+49,0,Stroke,Light,Night,Thursday,Snow,37.9,41,40.05942,58.51139,Dry,30.07,Summer,Basic Life Support,Critical,19,3,Ramanathapuram
+45,1,Other,Light,Evening,Friday,Clear,37.7,71,11.029,77.0384,Under Construction,25.8,Fall,Advanced Life Support,Mild,17,9,Peelamedu
+47,1,Cardiac Arrest,Heavy,Evening,Wednesday,Clear,28.3,77,10.9976,76.9558,Wet,32.71,Summer,Advanced Life Support,Moderate,14,4,RS Puram
+48,0,Cardiac Arrest,Heavy,Morning,Tuesday,Clear,34.5,95,-25.5071,-87.67751,Under Construction,39.13,Winter,Advanced Life Support,Mild,28,6,Ramanathapuram
+51,1,Stroke,Heavy,Morning,Friday,Rain,34.2,75,11.0872,76.9611,Wet,26.77,Fall,Basic Life Support,Critical,23,3,Thudiyalur
+15,0,Cardiac Arrest,Light,Afternoon,Friday,Clear,31.2,56,11.029,77.0384,Wet,45.07,Fall,Basic Life Support,Critical,12,3,Peelamedu
+29,1,Other,Heavy,Evening,Wednesday,Snow,31.9,83,11.029,77.0384,Wet,26.75,Winter,Basic Life Support,Critical,27,6,Peelamedu
+49,0,Stroke,Moderate,Evening,Friday,Clear,21.4,45,-49.25397,-55.43189,Under Construction,8.98,Summer,Basic Life Support,Moderate,20,9,Kovaipudur
+12,1,Other,Light,Night,Thursday,Clear,37.9,67,11.0205,76.9577,Wet,8.84,Fall,Advanced Life Support,Mild,3,8,Saibaba Colony
+8,1,Other,Moderate,Evening,Thursday,Fog,33.7,93,71.46218,118.95754,Dry,13.11,Spring,Basic Life Support,Critical,7,6,Kovaipudur
+42,1,Cardiac Arrest,Heavy,Evening,Monday,Rain,36.2,86,11.0872,76.9611,Dry,8.38,Winter,Basic Life Support,Moderate,20,7,Thudiyalur
+12,1,Other,Heavy,Morning,Wednesday,Fog,14.2,56,11.0205,76.9577,Dry,6.81,Summer,Basic Life Support,Critical,11,6,Saibaba Colony
+46,1,Accident,Light,Morning,Monday,Snow,12.3,38,-58.03987,-138.39759,Wet,47.33,Fall,Advanced Life Support,Critical,13,9,Ramanathapuram
+58,0,Other,Heavy,Afternoon,Friday,Snow,37.4,30,11.031,76.9704,Icy,45.39,Spring,Basic Life Support,Moderate,9,3,Ganapathy
+48,1,Accident,Light,Night,Monday,Rain,29.2,50,85.38579,-56.8489,Icy,9.85,Summer,Advanced Life Support,Mild,10,8,Kovaipudur
+30,1,Stroke,Light,Afternoon,Thursday,Clear,15.2,57,11.0872,76.9611,Wet,30.55,Summer,Advanced Life Support,Critical,19,3,Thudiyalur
+43,0,Other,Heavy,Afternoon,Wednesday,Clear,21.0,34,-68.26677,94.15608,Under Construction,32.39,Fall,Advanced Life Support,Moderate,6,10,Kovaipudur
+19,0,Cardiac Arrest,Moderate,Afternoon,Thursday,Clear,35.8,92,19.38667,42.65459,Icy,16.8,Summer,Advanced Life Support,Critical,28,2,Kovaipudur
+5,0,Cardiac Arrest,Light,Morning,Tuesday,Snow,13.0,93,11.0739,77.0032,Icy,22.56,Winter,Advanced Life Support,Critical,7,9,Saravanampatti
+22,1,Cardiac Arrest,Moderate,Night,Saturday,Snow,14.7,45,11.0174,76.9667,Icy,6.61,Fall,Advanced Life Support,Mild,11,6,Gandhipuram
+20,1,Cardiac Arrest,Light,Evening,Saturday,Snow,39.8,98,10.9986,77.0354,Dry,16.94,Winter,Advanced Life Support,Critical,2,9,Singanallur
+57,1,Other,Light,Evening,Wednesday,Snow,33.0,50,40.38289,-135.49011,Dry,40.33,Summer,Advanced Life Support,Moderate,9,3,Ramanathapuram
+39,1,Cardiac Arrest,Heavy,Afternoon,Friday,Fog,33.7,79,11.0872,76.9611,Under Construction,42.4,Winter,Advanced Life Support,Critical,1,10,Thudiyalur
+28,1,Cardiac Arrest,Heavy,Evening,Monday,Fog,31.9,50,11.0739,77.0032,Wet,37.05,Spring,Advanced Life Support,Critical,26,5,Saravanampatti
+10,1,Stroke,Light,Night,Thursday,Fog,29.5,52,-5.35676,7.96146,Dry,34.65,Winter,Basic Life Support,Moderate,12,1,Kovaipudur
+30,1,Other,Heavy,Afternoon,Wednesday,Clear,29.4,87,11.0739,77.0032,Wet,9.06,Spring,Basic Life Support,Critical,27,7,Saravanampatti
+16,0,Stroke,Heavy,Afternoon,Saturday,Snow,39.7,99,10.9986,77.0354,Dry,8.32,Fall,Basic Life Support,Mild,8,6,Singanallur
+58,0,Stroke,Heavy,Evening,Thursday,Rain,18.3,65,11.029,77.0384,Wet,3.45,Fall,Advanced Life Support,Critical,18,10,Peelamedu
+56,1,Other,Moderate,Evening,Thursday,Clear,33.1,83,11.0739,77.0032,Under Construction,42.48,Winter,Advanced Life Support,Critical,18,8,Saravanampatti
+25,0,Other,Light,Night,Wednesday,Fog,19.6,66,11.0739,77.0032,Icy,10.4,Winter,Basic Life Support,Critical,13,4,Saravanampatti
+32,1,Stroke,Light,Night,Wednesday,Fog,18.1,69,10.9986,77.0354,Under Construction,29.56,Winter,Basic Life Support,Moderate,27,9,Singanallur
+32,1,Other,Light,Morning,Wednesday,Snow,13.1,34,11.0205,76.9577,Icy,21.51,Summer,Advanced Life Support,Mild,25,9,Saibaba Colony
+27,1,Stroke,Moderate,Evening,Wednesday,Snow,21.6,67,11.0174,76.9667,Under Construction,41.57,Fall,Advanced Life Support,Mild,10,8,Gandhipuram
+44,1,Stroke,Heavy,Afternoon,Tuesday,Clear,32.3,70,11.0739,77.0032,Icy,10.12,Fall,Basic Life Support,Moderate,12,10,Saravanampatti
+30,1,Accident,Heavy,Night,Monday,Snow,30.3,31,10.9976,76.9558,Icy,38.92,Summer,Basic Life Support,Moderate,8,1,RS Puram
+53,0,Stroke,Light,Evening,Thursday,Clear,15.0,93,71.60935,151.14958,Dry,39.66,Winter,Basic Life Support,Moderate,26,4,Kovaipudur
+41,1,Stroke,Moderate,Afternoon,Wednesday,Snow,15.0,61,25.36833,-94.57729,Dry,33.05,Fall,Basic Life Support,Mild,2,8,Ramanathapuram
+59,1,Accident,Light,Night,Sunday,Snow,20.6,89,25.63065,-110.50562,Dry,13.24,Spring,Advanced Life Support,Moderate,15,5,Ramanathapuram
+22,1,Cardiac Arrest,Light,Afternoon,Wednesday,Clear,28.1,93,11.031,76.9704,Under Construction,37.06,Winter,Basic Life Support,Mild,16,4,Ganapathy
+42,0,Stroke,Light,Afternoon,Tuesday,Rain,36.7,81,11.029,77.0384,Under Construction,36.41,Summer,Basic Life Support,Moderate,22,3,Peelamedu
+30,1,Other,Light,Evening,Tuesday,Snow,18.0,43,11.031,76.9704,Dry,44.52,Spring,Advanced Life Support,Critical,13,2,Ganapathy
+40,1,Cardiac Arrest,Heavy,Night,Friday,Clear,33.3,39,11.029,77.0384,Under Construction,22.91,Summer,Basic Life Support,Critical,24,4,Peelamedu
+57,1,Cardiac Arrest,Heavy,Morning,Thursday,Fog,37.8,81,10.9976,76.9558,Wet,42.74,Winter,Basic Life Support,Critical,15,2,RS Puram
+16,0,Cardiac Arrest,Heavy,Afternoon,Tuesday,Snow,20.4,63,11.029,77.0384,Icy,34.82,Spring,Advanced Life Support,Moderate,11,6,Peelamedu
+58,1,Stroke,Heavy,Evening,Monday,Rain,38.8,63,11.031,76.9704,Under Construction,44.9,Spring,Basic Life Support,Mild,12,2,Ganapathy
+29,0,Cardiac Arrest,Heavy,Afternoon,Wednesday,Fog,34.7,82,-23.70706,-73.20085,Wet,31.97,Fall,Basic Life Support,Mild,16,9,Kovaipudur
+54,1,Stroke,Moderate,Morning,Sunday,Rain,31.0,33,11.0205,76.9577,Dry,38.83,Winter,Advanced Life Support,Critical,23,7,Saibaba Colony
+28,1,Other,Moderate,Afternoon,Sunday,Fog,23.2,38,11.0174,76.9667,Icy,36.75,Summer,Advanced Life Support,Mild,6,8,Gandhipuram
+48,0,Cardiac Arrest,Light,Evening,Saturday,Clear,31.7,98,11.031,76.9704,Icy,2.56,Spring,Advanced Life Support,Critical,8,1,Ganapathy
+50,1,Other,Light,Night,Friday,Fog,32.2,77,11.0174,76.9667,Under Construction,1.6,Winter,Basic Life Support,Moderate,7,10,Gandhipuram
+42,0,Other,Moderate,Afternoon,Tuesday,Fog,22.3,92,10.9976,76.9558,Under Construction,10.04,Fall,Advanced Life Support,Mild,28,1,RS Puram
+52,1,Accident,Moderate,Morning,Wednesday,Fog,27.9,60,11.0205,76.9577,Wet,47.16,Summer,Advanced Life Support,Moderate,7,7,Saibaba Colony
+20,1,Other,Moderate,Afternoon,Sunday,Snow,14.5,60,11.0174,76.9667,Dry,19.53,Winter,Advanced Life Support,Mild,9,4,Gandhipuram
+55,1,Other,Moderate,Afternoon,Thursday,Clear,25.1,87,10.9986,77.0354,Dry,39.7,Summer,Advanced Life Support,Moderate,10,6,Singanallur
+36,1,Stroke,Heavy,Evening,Friday,Snow,22.5,35,-82.88866,55.52023,Icy,34.71,Winter,Advanced Life Support,Moderate,15,10,Ramanathapuram
+33,1,Cardiac Arrest,Moderate,Evening,Thursday,Rain,10.4,46,-88.80374,-65.27785,Wet,13.0,Fall,Basic Life Support,Moderate,4,2,Kovaipudur
+16,1,Other,Moderate,Afternoon,Sunday,Rain,24.7,58,11.0872,76.9611,Icy,19.95,Winter,Advanced Life Support,Moderate,4,9,Thudiyalur
+53,1,Stroke,Light,Afternoon,Wednesday,Rain,21.7,81,11.0174,76.9667,Under Construction,9.11,Spring,Advanced Life Support,Moderate,15,4,Gandhipuram
+17,0,Other,Light,Morning,Tuesday,Rain,29.2,31,11.0174,76.9667,Dry,39.91,Summer,Advanced Life Support,Moderate,2,1,Gandhipuram
+21,0,Other,Moderate,Night,Friday,Clear,27.1,94,11.0205,76.9577,Under Construction,43.69,Summer,Basic Life Support,Moderate,12,2,Saibaba Colony
+13,1,Stroke,Light,Evening,Thursday,Clear,16.0,77,10.9976,76.9558,Wet,22.36,Fall,Basic Life Support,Mild,1,8,RS Puram
+25,1,Other,Light,Night,Tuesday,Fog,15.9,60,11.0872,76.9611,Dry,2.78,Winter,Basic Life Support,Critical,18,2,Thudiyalur
+31,0,Other,Moderate,Morning,Tuesday,Rain,13.2,71,11.0872,76.9611,Under Construction,22.95,Summer,Advanced Life Support,Moderate,23,9,Thudiyalur
+10,0,Cardiac Arrest,Heavy,Afternoon,Friday,Clear,18.7,62,11.0205,76.9577,Under Construction,41.55,Summer,Basic Life Support,Mild,8,10,Saibaba Colony
+25,1,Stroke,Heavy,Evening,Sunday,Fog,18.3,79,10.9976,76.9558,Dry,36.7,Winter,Advanced Life Support,Mild,27,6,RS Puram
+19,0,Other,Light,Morning,Friday,Rain,24.3,32,11.029,77.0384,Icy,22.95,Spring,Basic Life Support,Moderate,29,5,Peelamedu
+40,1,Cardiac Arrest,Moderate,Afternoon,Thursday,Fog,20.0,37,11.0872,76.9611,Under Construction,48.8,Spring,Advanced Life Support,Mild,7,9,Thudiyalur
+45,0,Other,Heavy,Night,Saturday,Clear,30.1,61,19.15436,-18.97862,Icy,22.99,Summer,Basic Life Support,Moderate,8,8,Ramanathapuram
+57,0,Stroke,Heavy,Morning,Saturday,Clear,39.9,34,27.09399,-60.00966,Icy,28.26,Winter,Basic Life Support,Critical,3,7,Kovaipudur
+45,1,Other,Heavy,Night,Friday,Fog,37.0,30,11.0739,77.0032,Under Construction,7.57,Summer,Basic Life Support,Moderate,26,5,Saravanampatti
+10,0,Accident,Heavy,Morning,Saturday,Rain,38.7,59,11.029,77.0384,Wet,34.96,Spring,Basic Life Support,Mild,21,7,Peelamedu
+43,1,Stroke,Moderate,Afternoon,Monday,Fog,12.8,96,11.031,76.9704,Icy,42.27,Winter,Advanced Life Support,Moderate,4,5,Ganapathy
+33,1,Other,Light,Night,Friday,Fog,15.2,56,11.0205,76.9577,Icy,42.81,Spring,Advanced Life Support,Mild,2,8,Saibaba Colony
+59,1,Stroke,Moderate,Evening,Thursday,Fog,24.7,37,11.0174,76.9667,Icy,26.1,Fall,Basic Life Support,Moderate,15,7,Gandhipuram
+49,1,Other,Moderate,Afternoon,Friday,Snow,38.5,65,11.029,77.0384,Icy,18.39,Spring,Basic Life Support,Mild,28,8,Peelamedu
+10,1,Stroke,Heavy,Evening,Saturday,Rain,39.4,78,11.0174,76.9667,Under Construction,49.4,Spring,Basic Life Support,Moderate,10,8,Gandhipuram
+30,1,Other,Light,Evening,Wednesday,Rain,16.7,38,10.9976,76.9558,Wet,42.95,Fall,Basic Life Support,Critical,21,1,RS Puram
+31,1,Stroke,Heavy,Morning,Monday,Fog,14.1,80,11.0174,76.9667,Under Construction,14.08,Fall,Basic Life Support,Mild,11,4,Gandhipuram
+31,1,Stroke,Heavy,Morning,Saturday,Rain,33.1,77,43.26603,87.81069,Icy,49.61,Winter,Basic Life Support,Critical,17,6,Ramanathapuram
+51,1,Cardiac Arrest,Light,Evening,Wednesday,Fog,15.3,58,11.0205,76.9577,Under Construction,23.75,Summer,Advanced Life Support,Mild,16,6,Saibaba Colony
+33,1,Accident,Light,Afternoon,Wednesday,Rain,22.4,44,11.0739,77.0032,Icy,44.57,Winter,Basic Life Support,Critical,13,9,Saravanampatti
+20,1,Other,Moderate,Night,Friday,Fog,37.0,51,-59.29008,-125.68979,Under Construction,32.18,Summer,Basic Life Support,Critical,15,1,Ramanathapuram
+45,1,Accident,Heavy,Evening,Sunday,Snow,22.3,92,50.24181,94.008,Wet,31.51,Fall,Basic Life Support,Moderate,25,7,Ramanathapuram
+20,1,Cardiac Arrest,Moderate,Evening,Wednesday,Rain,20.8,34,11.029,77.0384,Under Construction,46.09,Spring,Advanced Life Support,Mild,19,6,Peelamedu
+47,1,Cardiac Arrest,Light,Evening,Friday,Snow,12.4,35,10.9976,76.9558,Under Construction,42.31,Summer,Advanced Life Support,Mild,13,1,RS Puram
+29,1,Stroke,Light,Afternoon,Monday,Fog,17.7,60,10.9986,77.0354,Icy,8.29,Winter,Basic Life Support,Moderate,27,8,Singanallur
+10,1,Cardiac Arrest,Moderate,Morning,Sunday,Rain,20.8,40,-8.45574,-151.73191,Icy,27.83,Winter,Advanced Life Support,Moderate,25,7,Ramanathapuram
+42,0,Other,Heavy,Evening,Thursday,Snow,20.5,53,11.0174,76.9667,Dry,42.57,Winter,Advanced Life Support,Moderate,23,8,Gandhipuram
+47,1,Cardiac Arrest,Heavy,Afternoon,Tuesday,Fog,32.7,89,89.16948,-11.08425,Icy,21.91,Spring,Basic Life Support,Moderate,24,7,Kovaipudur
+9,1,Stroke,Light,Afternoon,Tuesday,Clear,22.3,57,10.9986,77.0354,Dry,46.42,Spring,Advanced Life Support,Critical,12,7,Singanallur
+41,1,Accident,Moderate,Afternoon,Saturday,Fog,36.4,96,11.0739,77.0032,Wet,26.26,Fall,Advanced Life Support,Moderate,10,5,Saravanampatti
+32,1,Accident,Light,Evening,Thursday,Fog,39.7,91,11.031,76.9704,Icy,18.08,Summer,Advanced Life Support,Moderate,22,9,Ganapathy
+37,0,Cardiac Arrest,Light,Evening,Wednesday,Fog,30.9,43,-50.73517,23.35219,Icy,12.97,Winter,Basic Life Support,Critical,10,1,Ramanathapuram
+18,1,Other,Moderate,Morning,Thursday,Snow,38.1,66,34.53088,-50.66431,Icy,7.0,Summer,Advanced Life Support,Mild,16,5,Ramanathapuram
+19,1,Accident,Moderate,Night,Monday,Fog,11.2,38,11.0205,76.9577,Wet,21.66,Fall,Basic Life Support,Moderate,10,5,Saibaba Colony
+6,1,Accident,Heavy,Night,Monday,Rain,19.7,66,11.0205,76.9577,Dry,13.22,Fall,Basic Life Support,Mild,4,4,Saibaba Colony
+9,1,Accident,Moderate,Night,Friday,Rain,22.0,98,72.99298,45.05715,Wet,4.77,Fall,Advanced Life Support,Moderate,22,9,Ramanathapuram
+9,1,Other,Light,Night,Monday,Clear,24.9,40,11.031,76.9704,Icy,8.35,Fall,Basic Life Support,Moderate,22,5,Ganapathy
+15,1,Cardiac Arrest,Heavy,Morning,Wednesday,Rain,29.5,77,-61.36569,-98.30796,Wet,4.89,Spring,Advanced Life Support,Moderate,4,2,Ramanathapuram
+32,1,Other,Light,Afternoon,Thursday,Fog,30.8,87,11.0872,76.9611,Icy,47.88,Winter,Basic Life Support,Critical,18,5,Thudiyalur
+54,1,Other,Heavy,Afternoon,Monday,Snow,29.0,94,17.2063,53.65747,Dry,26.98,Winter,Basic Life Support,Moderate,13,1,Kovaipudur
+46,0,Other,Moderate,Afternoon,Wednesday,Fog,16.9,59,10.9986,77.0354,Icy,15.34,Spring,Basic Life Support,Critical,2,7,Singanallur
+11,1,Accident,Moderate,Night,Thursday,Fog,13.5,30,11.031,76.9704,Under Construction,2.31,Winter,Basic Life Support,Critical,15,2,Ganapathy
+32,1,Cardiac Arrest,Light,Evening,Thursday,Snow,28.0,35,-60.15525,-142.22476,Icy,4.41,Fall,Advanced Life Support,Critical,14,1,Ramanathapuram
+20,1,Other,Light,Evening,Wednesday,Rain,23.1,77,10.9986,77.0354,Dry,27.05,Winter,Advanced Life Support,Moderate,15,9,Singanallur
+21,0,Accident,Light,Evening,Sunday,Clear,23.1,69,11.0205,76.9577,Under Construction,41.73,Spring,Basic Life Support,Critical,6,7,Saibaba Colony
+33,1,Other,Light,Evening,Wednesday,Rain,33.9,51,11.029,77.0384,Dry,26.56,Fall,Basic Life Support,Mild,21,9,Peelamedu
+48,0,Cardiac Arrest,Light,Night,Thursday,Fog,33.9,84,11.031,76.9704,Under Construction,42.97,Winter,Advanced Life Support,Moderate,23,8,Ganapathy
+56,1,Accident,Light,Morning,Friday,Fog,33.5,35,11.031,76.9704,Icy,23.32,Fall,Basic Life Support,Mild,21,10,Ganapathy
+20,1,Other,Light,Evening,Thursday,Rain,17.3,65,-48.45925,83.91795,Under Construction,41.49,Summer,Advanced Life Support,Mild,4,5,Kovaipudur
+25,0,Other,Moderate,Morning,Monday,Rain,22.8,83,-42.78904,-113.50833,Wet,34.25,Fall,Advanced Life Support,Moderate,7,6,Kovaipudur
+24,1,Accident,Heavy,Evening,Tuesday,Fog,28.8,40,11.031,76.9704,Icy,25.44,Winter,Advanced Life Support,Mild,7,2,Ganapathy
+24,1,Other,Light,Evening,Saturday,Clear,35.1,32,11.0872,76.9611,Under Construction,28.34,Spring,Advanced Life Support,Mild,12,8,Thudiyalur
+23,1,Accident,Heavy,Evening,Tuesday,Snow,26.3,53,11.029,77.0384,Wet,31.66,Fall,Advanced Life Support,Moderate,5,8,Peelamedu
+55,1,Accident,Light,Afternoon,Saturday,Clear,38.5,44,11.0174,76.9667,Icy,28.17,Summer,Advanced Life Support,Critical,12,2,Gandhipuram
+19,0,Accident,Heavy,Afternoon,Monday,Rain,12.1,37,11.0739,77.0032,Icy,21.31,Winter,Basic Life Support,Critical,12,3,Saravanampatti
+39,1,Other,Light,Morning,Sunday,Fog,23.0,45,10.9976,76.9558,Dry,4.64,Fall,Basic Life Support,Mild,23,8,RS Puram
+54,0,Other,Light,Morning,Wednesday,Clear,39.3,86,11.0872,76.9611,Wet,42.98,Fall,Basic Life Support,Moderate,11,3,Thudiyalur
+28,1,Other,Moderate,Evening,Sunday,Fog,27.9,82,11.031,76.9704,Dry,28.53,Fall,Basic Life Support,Moderate,13,7,Ganapathy
+39,0,Other,Light,Afternoon,Friday,Clear,19.6,98,10.9976,76.9558,Icy,3.36,Summer,Advanced Life Support,Moderate,14,5,RS Puram
+52,1,Stroke,Moderate,Evening,Thursday,Rain,30.6,68,66.98229,83.07208,Icy,25.56,Spring,Advanced Life Support,Mild,27,5,Kovaipudur
+24,1,Cardiac Arrest,Moderate,Night,Friday,Snow,38.9,95,11.0205,76.9577,Dry,27.35,Winter,Basic Life Support,Moderate,16,1,Saibaba Colony
+33,0,Stroke,Light,Afternoon,Tuesday,Rain,29.8,98,11.029,77.0384,Under Construction,32.71,Spring,Basic Life Support,Mild,24,1,Peelamedu
+41,0,Other,Light,Afternoon,Wednesday,Snow,28.5,34,11.0205,76.9577,Wet,19.93,Summer,Basic Life Support,Critical,8,7,Saibaba Colony
+7,0,Accident,Moderate,Afternoon,Thursday,Clear,27.4,78,11.031,76.9704,Dry,42.63,Summer,Advanced Life Support,Moderate,15,8,Ganapathy
+31,0,Stroke,Light,Afternoon,Saturday,Fog,17.6,70,11.0739,77.0032,Wet,49.35,Winter,Basic Life Support,Moderate,25,2,Saravanampatti
+44,1,Stroke,Moderate,Night,Sunday,Fog,20.7,95,11.0739,77.0032,Under Construction,16.38,Fall,Advanced Life Support,Critical,20,1,Saravanampatti
+13,0,Stroke,Light,Evening,Sunday,Rain,24.8,65,10.9986,77.0354,Icy,13.32,Fall,Advanced Life Support,Moderate,18,4,Singanallur
+21,0,Stroke,Moderate,Afternoon,Sunday,Fog,16.5,99,10.9976,76.9558,Under Construction,22.16,Summer,Advanced Life Support,Mild,5,7,RS Puram
+44,1,Accident,Moderate,Night,Thursday,Snow,10.4,94,67.80566,15.47307,Under Construction,14.77,Winter,Advanced Life Support,Mild,29,5,Kovaipudur
+17,1,Stroke,Moderate,Morning,Friday,Clear,17.5,97,11.0872,76.9611,Wet,33.99,Winter,Advanced Life Support,Moderate,3,2,Thudiyalur
+33,0,Accident,Heavy,Morning,Thursday,Snow,34.9,84,10.9976,76.9558,Wet,22.36,Summer,Advanced Life Support,Mild,16,6,RS Puram
+49,1,Cardiac Arrest,Light,Evening,Friday,Snow,25.0,75,11.0174,76.9667,Wet,38.8,Fall,Advanced Life Support,Mild,25,2,Gandhipuram
+57,1,Other,Moderate,Evening,Tuesday,Rain,22.4,62,11.0174,76.9667,Wet,37.73,Fall,Basic Life Support,Moderate,7,5,Gandhipuram
+22,1,Stroke,Moderate,Evening,Wednesday,Clear,17.6,52,11.0872,76.9611,Icy,18.74,Fall,Basic Life Support,Moderate,9,3,Thudiyalur
+21,1,Other,Moderate,Night,Tuesday,Fog,28.3,51,10.9976,76.9558,Icy,4.48,Fall,Advanced Life Support,Moderate,10,7,RS Puram
+32,0,Cardiac Arrest,Moderate,Evening,Tuesday,Clear,16.4,58,-30.97841,-116.37983,Wet,36.55,Fall,Advanced Life Support,Mild,9,10,Kovaipudur
+26,0,Stroke,Heavy,Night,Saturday,Snow,37.7,84,11.031,76.9704,Wet,33.82,Spring,Advanced Life Support,Moderate,6,2,Ganapathy
+6,1,Accident,Moderate,Afternoon,Tuesday,Rain,26.0,68,11.029,77.0384,Dry,46.63,Winter,Basic Life Support,Mild,28,2,Peelamedu
+55,1,Other,Heavy,Morning,Wednesday,Snow,38.1,87,11.0872,76.9611,Dry,2.89,Fall,Basic Life Support,Moderate,18,1,Thudiyalur
+17,0,Cardiac Arrest,Moderate,Night,Thursday,Rain,38.1,56,-70.23948,144.70031,Icy,30.79,Fall,Basic Life Support,Critical,25,2,Ramanathapuram
+7,0,Cardiac Arrest,Heavy,Night,Monday,Snow,31.5,68,11.0205,76.9577,Dry,32.92,Winter,Basic Life Support,Mild,8,1,Saibaba Colony
+50,1,Cardiac Arrest,Light,Night,Saturday,Rain,20.2,91,10.9986,77.0354,Under Construction,11.43,Spring,Basic Life Support,Critical,7,1,Singanallur
+9,1,Cardiac Arrest,Heavy,Night,Tuesday,Clear,39.1,95,10.9976,76.9558,Dry,48.56,Spring,Basic Life Support,Mild,3,9,RS Puram
